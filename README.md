@@ -1,14 +1,14 @@
 ## Welcome to Philipp Molitor's GitHub profile!
 
-I am an IT freelancer available for contracting. My focus is on fullstack web applications, but I also have some experience with Python, Rust, Java, Unity and microcontrollers. Initially, I started my carreer as a system administrator, so I usually deploy the applications I create on my own and also manage the underlying infrastructure.
+I am an IT freelancer available for contracting. I focus on creating fullstack web applications, but I also have (more or less) experience with Python, Rust, Java, Unity and microcontrollers. Initially, I started my carreer as a system administrator / DevOps guy, so I usually deploy the applications I create on my own and also manage the underlying infrastructure.
 
 ### What services do you offer?
 
 - Consulting on various IT topics
 - Fullstack web development
-- Coaching for JavaScript/TypeScript programmers or students
-- Linux Administration
-- DevOps and CI/CD pipelines
+- Coaching for JavaScript/TypeScript programmers and students
+- Linux server administration
+- DevOps with CI and CD pipelines
 
 ### Tech Stack
 
@@ -18,6 +18,7 @@ I am an IT freelancer available for contracting. My focus is on fullstack web ap
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
     <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
 </p>
