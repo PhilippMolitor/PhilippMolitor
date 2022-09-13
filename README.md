@@ -6,7 +6,7 @@ I am an IT freelancer available for contracting. I focus on creating fullstack w
 
 - Consulting on various IT topics
 - Fullstack web development
-- Coaching for JavaScript/TypeScript programmers and students
+- Coaching and Code Reviews for JavaScript/TypeScript programmers and students
 - Linux server administration
 - DevOps with CI and CD pipelines
 
